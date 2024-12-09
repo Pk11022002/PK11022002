@@ -27,7 +27,7 @@ Hi there! I'm **Pranav**, a Passionate Developer and Data Enthusiast. Here's a q
 - **Visualization**: Power BI 📊  
 - **Project Management**: Jira 📋  
 - **Version Control**: Git 🧰
-- **LLM's**: Azure GPT, OpenAI, Gemini
+- **LLM's**: Azure GPT, OpenAI, Gemini 🤖
 
 ---
 
