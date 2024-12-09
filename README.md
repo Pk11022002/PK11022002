@@ -1,16 +1,42 @@
-## Hi there 👋
+# 🌟 Welcome to My GitHub Profile! 👋
 
-<!--
-**Pk11022002/PK11022002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+Hi there! I'm **Pranav**, a Passionate Developer and Data Enthusiast. Here's a quick snapshot of what I love to do:
 
-Here are some ideas to get you started:
+- 📊 **Data Science** and Analytics  
+- 🐍 **Python**, SQL (**MySQL**, **PostgreSQL**), and **MongoDB**  
+- 🤖 **Machine Learning**, **Deep Learning**, and **Artificial Intelligence**  
+- 🔮 Exploring cutting-edge **Large Language Models (LLMs)**  
+- 🖥️ Building web applications with **Flask** and **Django**  
+- 📈 Creating insightful dashboards with **Power BI**  
+- 🗂️ Efficient task management with **Jira**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies & Tools
+- **Languages**: Python 🐍, SQL 🧮  
+- **Databases**: MySQL 🗃️, PostgreSQL 🗄️, MongoDB 📂  
+- **Web Frameworks**: Flask 🌐, Django 🚀  
+- **AI/ML Frameworks & Libraries**:  
+  - **TensorFlow** 🔢  
+  - **Scikit-learn** 🧪  
+  - **Pandas** 🐼  
+  - **NumPy** 🔬  
+  - **Matplotlib** 📊  
+  - **Hugging Face Transformers** 🤗  
+- **Visualization**: Power BI 📊  
+- **Project Management**: Jira 📋  
+- **Version Control**: Git 🧰
+- **LLM's**: Azure GPT, OpenAI, Gemini
+
+---
+
+## 🌱 Currently Learning
+- Advanced AI techniques 🤖  
+
+## 📫 Connect with Me!
+- 💼 **LinkedIn**: [Click here to connect](https://www.linkedin.com/in/pranav-katariya-599676193)
+
+---
+
+✨ *Let's collaborate and create something amazing together!* ✨
