@@ -8,7 +8,7 @@ Hi there! I'm **Pranav**, a Passionate Developer and Data Enthusiast. Here's a q
 - 🤖 **Machine Learning**, **Deep Learning**, and **Artificial Intelligence**  
 - 🔮 Exploring cutting-edge **Large Language Models (LLMs)**  
 - 🖥️ Building web applications with **Flask** and **Django**  
-- 📈 Creating insightful dashboards with **Power BI**  
+- 📈 Creating insightful dashboards with **Power BI** , **Tableau** [click here](https://public.tableau.com/app/profile/pranav.katariya/vizzes)
 - 🗂️ Efficient task management with **Jira**  
 
 ---
@@ -24,7 +24,7 @@ Hi there! I'm **Pranav**, a Passionate Developer and Data Enthusiast. Here's a q
   - **NumPy** 🔬  
   - **Matplotlib** 📊  
   - **Hugging Face Transformers** 🤗  
-- **Visualization**: Power BI 📊  
+- **Visualization**: Power BI, Tableau 📊  
 - **Project Management**: Jira 📋  
 - **Version Control**: Git 🧰
 - **LLM's**: Azure GPT, OpenAI, Gemini 🤖
