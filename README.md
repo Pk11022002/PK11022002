@@ -33,7 +33,7 @@ Hi there! I'm **Pranav**, a Passionate Developer and Data Enthusiast. Here's a q
 
 ## 🌱 Currently Learning
 - Advanced AI techniques (**Agents**,**Prompt Engineering**)🤖
--- 🔍🧠⚡ **Retrieval-Augmented Generation (RAG)**: A powerful combination of retrieval and generative AI for enhanced and contextually accurate responses.
+- 🔍🧠⚡ **Retrieval-Augmented Generation (RAG)**: A powerful combination of retrieval and generative AI for enhanced and contextually accurate responses.
 
 ## 📫 Connect with Me!
 - 💼 **LinkedIn**: [Click here to connect](https://www.linkedin.com/in/pranav-katariya-599676193)
