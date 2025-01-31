@@ -15,8 +15,8 @@ Hi there! I'm **Pranav**, a Passionate Developer and Data Enthusiast. Here's a q
 
 ## 🔧 Technologies & Tools
 - **Languages**: Python 🐍, SQL 🧮  
-- **Databases**: MySQL 🗃️, PostgreSQL 🗄️, MongoDB 📂  
-- **Web Frameworks**: Flask 🌐, Django 🚀  
+- **Databases**: MySQL 🗃️, PostgreSQL 🗄️, MongoDB 📂 Clickhouse 🗃️,
+- **Web Frameworks**: Flask 🌐, Django 🚀, FastAPI  🚀,
 - **AI/ML Frameworks & Libraries**:  
   - **TensorFlow** 🔢  
   - **Scikit-learn** 🧪  
