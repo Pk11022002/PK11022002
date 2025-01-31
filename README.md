@@ -24,7 +24,7 @@ Hi there! I'm **Pranav**, a Passionate Developer and Data Enthusiast. Here's a q
   - **NumPy** 🔬  
   - **Matplotlib** 📊  
   - **Hugging Face Transformers** 🤗  
-- **Visualization**: Power BI, Tableau 📊  
+- **Visualization**: Power BI, Tableau, Grafana📊  
 - **Project Management**: Jira 📋  
 - **Version Control**: Git 🧰
 - **LLM's**: Azure GPT, OpenAI, Gemini 🤖
