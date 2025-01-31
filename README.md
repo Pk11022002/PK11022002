@@ -4,10 +4,10 @@
 Hi there! I'm **Pranav**, a Passionate Developer and Data Enthusiast. Here's a quick snapshot of what I love to do:
 
 - 📊 **Data Science** and Analytics  
-- 🐍 **Python**, SQL (**MySQL**, **PostgreSQL**), and **MongoDB**  
+- 🐍 **Python**, SQL (**MySQL**, **PostgreSQL**, **Clickhouse**), and **MongoDB**  
 - 🤖 **Machine Learning**, **Deep Learning**, and **Artificial Intelligence**  
 - 🔮 Exploring cutting-edge **Large Language Models (LLMs)**  
-- 🖥️ Building web applications with **Flask** and **Django**  
+- 🖥️ Building web applications with **Flask**, **FastAPI** and **Django**  
 - 📈 Creating insightful dashboards with **Power BI** , **Tableau** [click here](https://public.tableau.com/app/profile/pranav.katariya/vizzes)
 - 🗂️ Efficient task management with **Jira**  
 
