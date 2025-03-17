@@ -1,7 +1,7 @@
 # 🌟 Welcome to My GitHub Profile! 👋
 
 ## 🧑‍💻 About Me
-Hi there! I'm **Pranav**, a Passionate Developer and Data Enthusiast. Here's a quick snapshot of what I love to do:
+Hi there! I'm **Pranav**, a Passionate AI Engineer and Data Enthusiast. Here's a quick snapshot of what I love to do:
 
 - 📊 **Data Science** and Analytics  
 - 🐍 **Python**, SQL (**MySQL**, **PostgreSQL**, **Clickhouse**), and **MongoDB**  
