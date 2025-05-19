@@ -3,12 +3,12 @@
 ## 🧑‍💻 About Me
 Hi there! I'm **Pranav**, a Passionate AI Engineer and Data Enthusiast. Here's a quick snapshot of what I love to do:
 
-- 📊 **Data Science** and Analytics  
+- 📊 **Data Science**, **Analytics** and **AI Engineering**  
 - 🐍 **Python**, SQL (**MySQL**, **PostgreSQL**, **Clickhouse**), and **MongoDB**  
 - 🤖 **Machine Learning**, **Deep Learning**, and **Artificial Intelligence**  
 - 🔮 Exploring cutting-edge **Large Language Models (LLMs)**  
 - 🖥️ Building web applications with **Flask**, **FastAPI** and **Django**  
-- 📈 Creating insightful dashboards with **Power BI** , **Tableau** [click here](https://public.tableau.com/app/profile/pranav.katariya/vizzes)
+- 📈 Creating insightful dashboards with **Grafana**,**Power BI** , **Tableau** [click here](https://public.tableau.com/app/profile/pranav.katariya/vizzes)
 - 🗂️ Efficient task management with **Jira**  
 
 ---
@@ -17,7 +17,9 @@ Hi there! I'm **Pranav**, a Passionate AI Engineer and Data Enthusiast. Here's a
 - **Languages**: Python 🐍, SQL 🧮  
 - **Databases**: MySQL 🗃️, PostgreSQL 🗄️, MongoDB 📂 Clickhouse 🗃️,
 - **Web Frameworks**: Flask 🌐, Django 🚀, FastAPI  🚀,
-- **AI/ML Frameworks & Libraries**:  
+- **AI/ML Frameworks & Libraries**:
+  - **Openai-Agents**
+  - **Langchain**, **LangSmith**, **LangFuse**
   - **TensorFlow** 🔢  
   - **Scikit-learn** 🧪  
   - **Pandas** 🐼  
